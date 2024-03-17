@@ -1,3 +1,7 @@
+
+![Screenshot 2024-03-17 233458](https://github.com/darabperwaiz/carousel/assets/96805782/cbd15332-af97-4fe2-82a5-a6b1493bb4e5)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
